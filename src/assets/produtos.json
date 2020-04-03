@@ -1,0 +1,38 @@
+ [
+    {
+        "id": 134241723,
+        "nome": "Smart TV LED 50\" Samsung 50RU7100 Ultra HD 4K com Conversor Digital 3 HDMI 2 USB Wi-Fi Visual Livre de Cabos Controle Remoto Único e Bluetooth",
+        "descricao": "Agora assistir aos seus filmes favoritos, series, programas e muito mais vai tornar-se uma experiência ainda mais imersiva e completa, com a Smart TV LED 50\" Samsung UN50RU7100GXZD Ultra HD 4K. Desenvolvida com o que a de melhor em...",
+        "categoria": "TV 4K",
+        "preco": 1999,
+        "imagemDeDestaque": "134241731_1GG.jpg",
+        "imagens": [
+            "134241731_1GG.jpg",
+            "134241731_2GG.jpg",
+            "134241731_3GG.jpg",
+            "134241731_4GG.jpg",
+            "134241731_5GG.jpg",
+            "134241731_6GG.jpg",
+            "134241731_7GG.jpg",
+            "134241731_8GG.jpg",
+            "134241731_9GG.jpg"
+        ]
+    },
+    {
+        "id": 1535234073,
+        "nome": "Notebook Dell Inspiron I15-3583-FS1P 8ª Intel Core i5 8GB 256GB SSD 15,6\" W10 Preto",
+        "descricao": "Com o Inspiron 15 3000, você terá uma nova perspectiva sobre como um Notebook poderá te ajudar, seja no trabalho, estudo ou entretenimento. Além de um design moderno e diferenciado, este modelo conta com uma tela de 15.6 polegadas e...",
+        "categoria": "Notebook",
+        "preco": 3159.99,
+        "imagemDeDestaque": "1535234305_1GG.jpg",
+        "imagens": [
+            "1535234305_1GG.jpg",
+            "1535234305_2GG.jpg",
+            "1535234305_3GG.jpg",
+            "1535234305_4GG.jpg",
+            "1535234305_5GG.jpg",
+            "1535234305_6GG.jpg",
+            "1535234305_7GG.jpg"
+        ]
+    }
+]

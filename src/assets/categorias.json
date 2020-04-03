@@ -1,0 +1,20 @@
+[
+    {
+        "nome": "TV e Home Theater"
+    },
+    {
+        "nome": "TV",
+        "categoriaPai": "TV e Home Theater"
+    },
+    {
+        "nome": "TV 4K",
+        "categoriaPai": "TV"
+    },
+    {
+        "nome": "Informática"
+    },
+    {
+        "nome": "Notebook",
+        "categoriaPai": "Informática"
+    }
+]
