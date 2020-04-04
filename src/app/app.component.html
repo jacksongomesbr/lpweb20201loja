@@ -13,10 +13,10 @@
     <div class="list-group-item" *ngFor="let produto of produtos">
       <div class="float-right">
         <div class="badge badge-primary produto__preco">
-          {{produto.preco | currency:'BRL'}}
+          {{produto.preco | currency}}
         </div>
         <div>
-          12 x {{(produto.preco/12) | currency:'BRL'}}
+          12 x {{(produto.preco/12) | currency}}
         </div>
         <br>
         <button class="btn btn-success" (click)="comprar(produto)" data-toggle="modal" data-target="#modalCarrinho">Comprar</button>
@@ -66,13 +66,13 @@
             <tr *ngFor="let produto of carrinho">
               <td scope="row">{{produto.nome}}</td>
               <td>{{produto.quantidade}}</td>
-              <td>{{(produto.quantidade * produto.preco) | currency:'BRL'}}</td>
+              <td>{{(produto.quantidade * produto.preco) | currency}}</td>
             </tr>
           </tbody>
           <tfoot>
             <tr>
               <td colspan="2">Total</td>
-              <td>{{calcularTotalDoCarrinho() | currency:'BRL'}}</td>
+              <td>{{calcularTotalDoCarrinho() | currency}}</td>
             </tr>
           </tfoot>
         </table>
